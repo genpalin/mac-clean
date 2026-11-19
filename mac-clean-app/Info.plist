@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Mac Clean</string>
+	<key>CFBundleExecutable</key>
+	<string>MacClean</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.local-loop.mac-clean</string>
+	<key>MacCleanCodeIdentity</key>
+	<string>8F7C4D1A-3E69-4B35-9F12-CC2A77B6401D</string>
+	<key>CFBundleIconFile</key>
+	<string>MacClean.icns</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Mac Clean</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>13.0</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	<key>NSScreenCaptureUsageDescription</key>
+	<string>Mac Clean captures the screen area or full display you choose when you use Screenshot &amp; Markup.</string>
+	<key>LSUIElement</key>
+	<true/>
+</dict>
+</plist>

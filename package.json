@@ -1,0 +1,16 @@
+{
+  "name": "mac-clean",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Local-first macOS and Docker cleanup helper with a dry-run default.",
+  "scripts": {
+    "test": "node --test scripts/*.test.mjs",
+    "mac:clean": "node scripts/mac-clean.mjs",
+    "mac:clean:install": "node scripts/install-mac-clean.mjs",
+    "mac:app:build": "node scripts/build-mac-clean-app.mjs",
+    "mac:app:install": "node scripts/install-mac-clean-app.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
